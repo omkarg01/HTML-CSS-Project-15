@@ -8,9 +8,7 @@
 ## Project 15 [Live Link](https://62e43860707898394ffe22cb--super-basbousa-6c93a7.netlify.app/)
 
 - Skills Gained in this project
-  - Learned to create background box for visual design.
-  - Learned to use external fontawesome icon library
-  - Gained indepth knowledge of flexbox.
+  - Learned about grid and the structure the cards using it.
 
 ---
 

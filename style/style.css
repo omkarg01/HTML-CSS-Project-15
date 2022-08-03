@@ -204,10 +204,10 @@ body {
 }
 
 .stats .right {
-    display: flex;
-    flex-wrap: wrap;
-    flex: 2;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
     gap: 20px;
+    margin-left: 10rem;
 }
 
 .stats .right .stats-box {
@@ -271,10 +271,9 @@ body {
 }
 
  .project-cards {
-    display: flex;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
     gap: 38px;
-    justify-content: center;
 }
 
 .project-card .img {
